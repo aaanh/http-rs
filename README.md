@@ -21,6 +21,6 @@ This utilizes the `rust-watch` package to automatically recompile the applicatio
 
 # To-dos
 
-- [x] Asynchronous
+- [ ] Asynchronous
 - [ ] Server-side rendering (maybe)
 - [ ] Template parsing
